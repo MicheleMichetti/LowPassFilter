@@ -1,3 +1,9 @@
 ./build
 ./LowPassFilter.out
 ./*.txt
+
+build
+build/*
+*.out
+*.txt
+
